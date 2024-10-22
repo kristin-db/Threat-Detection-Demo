@@ -9,7 +9,7 @@ The Threat-Detection-Demo is designed to show how to use Databricks to detect, i
 ## Setup and Requirements
 To run this demo, you'll need:
 - A Databricks workspace
-- Permission to write to `dbfs:/tmp/detection_maturity`
+- Permission to write to create new catalogs and schemas in your workspace.
 - Basic knowledge of Apache Spark
 - An Azure Entra user ID and Graph API token
 
